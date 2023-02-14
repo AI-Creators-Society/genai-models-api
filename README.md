@@ -1,2 +1,2 @@
-# genai-models-api
+# [WUP] genai-models-api
 A WebAPI that returns Generative-AI model datas.
